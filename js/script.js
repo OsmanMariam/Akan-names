@@ -34,3 +34,9 @@ function getDay(){
     }
 }
 
+
+
+var daysOfWeek = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
+var maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
+var femaleNames=["Akosua","Adowa","Abenaa","Akua","Yaa","Afua","Ama"];
+
