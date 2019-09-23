@@ -42,7 +42,7 @@ function checkDayOfWeek(){
 
 var daysOfWeek = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
 var maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
-
+var femaleNames=["Akosua","Adowa","Abenaa","Akua","Yaa","Afua","Ama"];
 function checkGender(){
     var gen = document.getElementsByName("rads");
     if(gen[0].checked == true){
@@ -50,7 +50,7 @@ function checkGender(){
     }else if(gen[1].checked == true){
         var gender = "female";
     }else {
-      console.log("pass");//Test the radio buttons
+      console.log("pass");
     }
   
       switch(gender){
