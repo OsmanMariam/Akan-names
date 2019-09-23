@@ -5,7 +5,7 @@
 This is website application that determines your Ghanian birth name by calculating the day of week in which you were born, based on your birthday details.
 ## Setup/Installation Requirements
 * Open OsmanMariam profile on GitHUb or search for username.
-* Click on akan names repostotory.
+* Click on akan names repository.
 * Click on the link displayed next to the description.
 
 
@@ -35,4 +35,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.*
-Copyright (c) 2019 **{List of contributors or company name}**
+Copyright (c) 2019.
